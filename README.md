@@ -26,16 +26,15 @@
 
 - 커뮤니티
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd26baf8-4e86-4b01-89fc-3accb55759f8/ezgif.com-gif-maker_(3).gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bd26baf8-4e86-4b01-89fc-3accb55759f8/ezgif.com-gif-maker_(3).gif)
-
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/70506979/111321790-9c9d0d80-86ab-11eb-9678-46777644d23c.gif)
 - 고객센터
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b1298f3-8c1f-4bc7-b8d7-84ea90499cbb/ezgif.com-gif-maker_(4).gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b1298f3-8c1f-4bc7-b8d7-84ea90499cbb/ezgif.com-gif-maker_(4).gif)
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/70506979/111321794-9dce3a80-86ab-11eb-9bc5-54e121e994f0.gif)
 
 - 마이페이지
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d3bc9808-90e3-41b9-9ce5-38876bb41579/ezgif.com-gif-maker_(5).gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d3bc9808-90e3-41b9-9ce5-38876bb41579/ezgif.com-gif-maker_(5).gif)
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/70506979/111321800-9e66d100-86ab-11eb-838c-baf10a5ec9c1.gif)
 
 - 관리자
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c39cf2c1-cf95-480e-804f-aa9e8ebe6d4e/ezgif.com-gif-maker_(6).gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c39cf2c1-cf95-480e-804f-aa9e8ebe6d4e/ezgif.com-gif-maker_(6).gif)
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/70506979/111321805-a0309480-86ab-11eb-962f-36c03718aa82.gif)
